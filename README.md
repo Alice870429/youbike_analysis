@@ -12,3 +12,8 @@
 
 ## 詳細分析
 - [YouBike_Analysis](https://github.com/Alice870429/youbike_analysis/blob/main/YouBike_Analysis.ipynb)
+
+## 補充
+- 問題：
+  - 由於資料庫的限制，本次的分析僅探討 30 小時的資料，因此希望未來可以針對更長時段進行分析
+  - 目前並沒有「補車成本」的相關資料，若未來有機會能獲得這部分的資料可以更進一步的影響分析的結論
