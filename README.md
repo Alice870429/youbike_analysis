@@ -6,5 +6,9 @@
 - 資料時間範圍：以 7/17 16:00 ~ 7/18 22:00 （30hr）作為分析區間
 
 ## 事前作業
-- 由於兩個資料平台提供的皆為每分鐘更新的即時資料，以.json檔作為串接來源，因此設定排程爬蟲將以上兩個資料來源抓下來導入SQLite資料庫進行使用
-- 
+- 由於兩個資料平台提供的皆為每分鐘更新的即時資料，以`.json`檔作為串接來源，因此設定排程爬蟲將以上兩個資料來源抓下來導入`SQLite`資料庫進行使用
+- [YouBike1.0](https://github.com/Alice870429/youbike_analysis/blob/main/youbike_tp_all.py)
+- [YouBike2.0](https://github.com/Alice870429/youbike_analysis/blob/main/youbike_tp_20.py)
+
+## 詳細分析
+- [YouBike_Analysis](https://github.com/Alice870429/youbike_analysis/blob/main/YouBike_Analysis.ipynb)
